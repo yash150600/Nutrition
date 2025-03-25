@@ -1,0 +1,572 @@
+[
+  {
+    "name": "chicken breast",
+    "category": "High-Protein",
+    "nutritionalContent": {
+      "protein": 31.5,
+      "carbohydrates": 0,
+      "calories": 281.1,
+      "fiber": 2,
+      "fat": 20.9
+    },
+    "servingSize": 100,
+    "additionalNutrients": {
+      "saturatedFat": 0.5,
+      "sodium": 50,
+      "potassium": 200,
+      "cholesterol": 70.3,
+      "sugar": 5
+    }
+  },
+  {
+    "name": "turkey breast",
+    "category": "High-Protein",
+    "nutritionalContent": {
+      "protein": 27.7,
+      "carbohydrates": 0,
+      "calories": 236.3,
+      "fiber": 2,
+      "fat": 20.7
+    },
+    "servingSize": 100,
+    "additionalNutrients": {
+      "saturatedFat": 0.5,
+      "sodium": 50,
+      "potassium": 200,
+      "cholesterol": 73.6,
+      "sugar": 5
+    }
+  },
+  {
+    "name": "lean beef",
+    "category": "High-Protein",
+    "nutritionalContent": {
+      "protein": 30.6,
+      "carbohydrates": 0,
+      "calories": 218.4,
+      "fiber": 2,
+      "fat": 23.7
+    },
+    "servingSize": 100,
+    "additionalNutrients": {
+      "saturatedFat": 0.5,
+      "sodium": 50,
+      "potassium": 200,
+      "cholesterol": 62.4,
+      "sugar": 5
+    }
+  },
+  {
+    "name": "pork loin",
+    "category": "High-Protein",
+    "nutritionalContent": {
+      "protein": 27.6,
+      "carbohydrates": 0,
+      "calories": 299.8,
+      "fiber": 2,
+      "fat": 10.8
+    },
+    "servingSize": 100,
+    "additionalNutrients": {
+      "saturatedFat": 0.5,
+      "sodium": 50,
+      "potassium": 200,
+      "cholesterol": 61.6,
+      "sugar": 5
+    }
+  },
+  {
+    "name": "tuna",
+    "category": "High-Protein",
+    "nutritionalContent": {
+      "protein": 5,
+      "carbohydrates": 15,
+      "calories": 100,
+      "fiber": 2,
+      "fat": 2
+    },
+    "servingSize": 100,
+    "additionalNutrients": {
+      "saturatedFat": 0.5,
+      "sodium": 50,
+      "potassium": 200,
+      "cholesterol": 0,
+      "sugar": 5
+    }
+  },
+  {
+    "name": "salmon",
+    "category": "High-Protein",
+    "nutritionalContent": {
+      "protein": 5,
+      "carbohydrates": 15,
+      "calories": 100,
+      "fiber": 2,
+      "fat": 2
+    },
+    "servingSize": 100,
+    "additionalNutrients": {
+      "saturatedFat": 0.5,
+      "sodium": 50,
+      "potassium": 200,
+      "cholesterol": 0,
+      "sugar": 5
+    }
+  },
+  {
+    "name": "tilapia",
+    "category": "High-Protein",
+    "nutritionalContent": {
+      "protein": 5,
+      "carbohydrates": 15,
+      "calories": 100,
+      "fiber": 2,
+      "fat": 2
+    },
+    "servingSize": 100,
+    "additionalNutrients": {
+      "saturatedFat": 0.5,
+      "sodium": 50,
+      "potassium": 200,
+      "cholesterol": 0,
+      "sugar": 5
+    }
+  },
+  {
+    "name": "shrimp",
+    "category": "High-Protein",
+    "nutritionalContent": {
+      "protein": 5,
+      "carbohydrates": 15,
+      "calories": 100,
+      "fiber": 2,
+      "fat": 2
+    },
+    "servingSize": 100,
+    "additionalNutrients": {
+      "saturatedFat": 0.5,
+      "sodium": 50,
+      "potassium": 200,
+      "cholesterol": 0,
+      "sugar": 5
+    }
+  },
+  {
+    "name": "egg whites",
+    "category": "High-Protein",
+    "nutritionalContent": {
+      "protein": 5,
+      "carbohydrates": 15,
+      "calories": 100,
+      "fiber": 2,
+      "fat": 2
+    },
+    "servingSize": 100,
+    "additionalNutrients": {
+      "saturatedFat": 0.5,
+      "sodium": 50,
+      "potassium": 200,
+      "cholesterol": 0,
+      "sugar": 5
+    }
+  },
+  {
+    "name": "greek yogurt",
+    "category": "High-Protein",
+    "nutritionalContent": {
+      "protein": 16.9,
+      "carbohydrates": 8,
+      "calories": 195.8,
+      "fiber": 2,
+      "fat": 13.2
+    },
+    "servingSize": 100,
+    "additionalNutrients": {
+      "saturatedFat": 0.5,
+      "sodium": 50,
+      "potassium": 200,
+      "cholesterol": 0,
+      "sugar": 5
+    }
+  },
+  {
+    "name": "cottage cheese",
+    "category": "High-Protein",
+    "nutritionalContent": {
+      "protein": 13.9,
+      "carbohydrates": 7.6,
+      "calories": 186.4,
+      "fiber": 2,
+      "fat": 8
+    },
+    "servingSize": 100,
+    "additionalNutrients": {
+      "saturatedFat": 0.5,
+      "sodium": 50,
+      "potassium": 200,
+      "cholesterol": 0,
+      "sugar": 5
+    }
+  },
+  {
+    "name": "whey protein",
+    "category": "High-Protein",
+    "nutritionalContent": {
+      "protein": 5,
+      "carbohydrates": 15,
+      "calories": 100,
+      "fiber": 2,
+      "fat": 2
+    },
+    "servingSize": 100,
+    "additionalNutrients": {
+      "saturatedFat": 0.5,
+      "sodium": 50,
+      "potassium": 200,
+      "cholesterol": 0,
+      "sugar": 5
+    }
+  },
+  {
+    "name": "tofu",
+    "category": "High-Protein",
+    "nutritionalContent": {
+      "protein": 15.6,
+      "carbohydrates": 23.8,
+      "calories": 182.2,
+      "fiber": 9.7,
+      "fat": 2
+    },
+    "servingSize": 100,
+    "additionalNutrients": {
+      "saturatedFat": 0.5,
+      "sodium": 50,
+      "potassium": 200,
+      "cholesterol": 0,
+      "sugar": 5
+    }
+  },
+  {
+    "name": "tempeh",
+    "category": "High-Protein",
+    "nutritionalContent": {
+      "protein": 5,
+      "carbohydrates": 15,
+      "calories": 100,
+      "fiber": 2,
+      "fat": 2
+    },
+    "servingSize": 100,
+    "additionalNutrients": {
+      "saturatedFat": 0.5,
+      "sodium": 50,
+      "potassium": 200,
+      "cholesterol": 0,
+      "sugar": 5
+    }
+  },
+  {
+    "name": "seitan",
+    "category": "High-Protein",
+    "nutritionalContent": {
+      "protein": 5,
+      "carbohydrates": 15,
+      "calories": 100,
+      "fiber": 2,
+      "fat": 2
+    },
+    "servingSize": 100,
+    "additionalNutrients": {
+      "saturatedFat": 0.5,
+      "sodium": 50,
+      "potassium": 200,
+      "cholesterol": 0,
+      "sugar": 5
+    }
+  },
+  {
+    "name": "lentils",
+    "category": "High-Protein",
+    "nutritionalContent": {
+      "protein": 20,
+      "carbohydrates": 22.3,
+      "calories": 188.9,
+      "fiber": 8,
+      "fat": 2
+    },
+    "servingSize": 100,
+    "additionalNutrients": {
+      "saturatedFat": 0.5,
+      "sodium": 50,
+      "potassium": 200,
+      "cholesterol": 0,
+      "sugar": 5
+    }
+  },
+  {
+    "name": "chickpeas",
+    "category": "High-Protein",
+    "nutritionalContent": {
+      "protein": 18.9,
+      "carbohydrates": 29,
+      "calories": 196.4,
+      "fiber": 5,
+      "fat": 2
+    },
+    "servingSize": 100,
+    "additionalNutrients": {
+      "saturatedFat": 0.5,
+      "sodium": 50,
+      "potassium": 200,
+      "cholesterol": 0,
+      "sugar": 5
+    }
+  },
+  {
+    "name": "black beans",
+    "category": "High-Protein",
+    "nutritionalContent": {
+      "protein": 19.7,
+      "carbohydrates": 21.7,
+      "calories": 176.7,
+      "fiber": 10,
+      "fat": 2
+    },
+    "servingSize": 100,
+    "additionalNutrients": {
+      "saturatedFat": 0.5,
+      "sodium": 50,
+      "potassium": 200,
+      "cholesterol": 0,
+      "sugar": 5
+    }
+  },
+  {
+    "name": "kidney beans",
+    "category": "High-Protein",
+    "nutritionalContent": {
+      "protein": 19.2,
+      "carbohydrates": 21.3,
+      "calories": 177.5,
+      "fiber": 6.5,
+      "fat": 2
+    },
+    "servingSize": 100,
+    "additionalNutrients": {
+      "saturatedFat": 0.5,
+      "sodium": 50,
+      "potassium": 200,
+      "cholesterol": 0,
+      "sugar": 5
+    }
+  },
+  {
+    "name": "quinoa",
+    "category": "High-Protein",
+    "nutritionalContent": {
+      "protein": 21,
+      "carbohydrates": 30,
+      "calories": 161.7,
+      "fiber": 9.6,
+      "fat": 2
+    },
+    "servingSize": 100,
+    "additionalNutrients": {
+      "saturatedFat": 0.5,
+      "sodium": 50,
+      "potassium": 200,
+      "cholesterol": 0,
+      "sugar": 5
+    }
+  },
+  {
+    "name": "peanut butter",
+    "category": "High-Protein",
+    "nutritionalContent": {
+      "protein": 14.7,
+      "carbohydrates": 15,
+      "calories": 251.4,
+      "fiber": 6.9,
+      "fat": 17.6
+    },
+    "servingSize": 100,
+    "additionalNutrients": {
+      "saturatedFat": 0.5,
+      "sodium": 50,
+      "potassium": 200,
+      "cholesterol": 0,
+      "sugar": 5
+    }
+  },
+  {
+    "name": "almonds",
+    "category": "High-Protein",
+    "nutritionalContent": {
+      "protein": 5,
+      "carbohydrates": 15,
+      "calories": 100,
+      "fiber": 2,
+      "fat": 2
+    },
+    "servingSize": 100,
+    "additionalNutrients": {
+      "saturatedFat": 0.5,
+      "sodium": 50,
+      "potassium": 200,
+      "cholesterol": 0,
+      "sugar": 5
+    }
+  },
+  {
+    "name": "pumpkin seeds",
+    "category": "High-Protein",
+    "nutritionalContent": {
+      "protein": 12.5,
+      "carbohydrates": 15,
+      "calories": 291.8,
+      "fiber": 3.8,
+      "fat": 16.7
+    },
+    "servingSize": 100,
+    "additionalNutrients": {
+      "saturatedFat": 0.5,
+      "sodium": 50,
+      "potassium": 200,
+      "cholesterol": 0,
+      "sugar": 5
+    }
+  },
+  {
+    "name": "chia seeds",
+    "category": "High-Protein",
+    "nutritionalContent": {
+      "protein": 16.3,
+      "carbohydrates": 15,
+      "calories": 398.5,
+      "fiber": 3.3,
+      "fat": 16.7
+    },
+    "servingSize": 100,
+    "additionalNutrients": {
+      "saturatedFat": 0.5,
+      "sodium": 50,
+      "potassium": 200,
+      "cholesterol": 0,
+      "sugar": 5
+    }
+  },
+  {
+    "name": "hemp seeds",
+    "category": "High-Protein",
+    "nutritionalContent": {
+      "protein": 11.3,
+      "carbohydrates": 15,
+      "calories": 302.4,
+      "fiber": 5.8,
+      "fat": 34.2
+    },
+    "servingSize": 100,
+    "additionalNutrients": {
+      "saturatedFat": 0.5,
+      "sodium": 50,
+      "potassium": 200,
+      "cholesterol": 0,
+      "sugar": 5
+    }
+  },
+  {
+    "name": "edamame",
+    "category": "High-Protein",
+    "nutritionalContent": {
+      "protein": 5,
+      "carbohydrates": 15,
+      "calories": 100,
+      "fiber": 2,
+      "fat": 2
+    },
+    "servingSize": 100,
+    "additionalNutrients": {
+      "saturatedFat": 0.5,
+      "sodium": 50,
+      "potassium": 200,
+      "cholesterol": 0,
+      "sugar": 5
+    }
+  },
+  {
+    "name": "green peas",
+    "category": "High-Protein",
+    "nutritionalContent": {
+      "protein": 5,
+      "carbohydrates": 15,
+      "calories": 100,
+      "fiber": 2,
+      "fat": 2
+    },
+    "servingSize": 100,
+    "additionalNutrients": {
+      "saturatedFat": 0.5,
+      "sodium": 50,
+      "potassium": 200,
+      "cholesterol": 0,
+      "sugar": 5
+    }
+  },
+  {
+    "name": "spirulina",
+    "category": "High-Protein",
+    "nutritionalContent": {
+      "protein": 5,
+      "carbohydrates": 15,
+      "calories": 100,
+      "fiber": 2,
+      "fat": 2
+    },
+    "servingSize": 100,
+    "additionalNutrients": {
+      "saturatedFat": 0.5,
+      "sodium": 50,
+      "potassium": 200,
+      "cholesterol": 0,
+      "sugar": 5
+    }
+  },
+  {
+    "name": "nutritional yeast",
+    "category": "High-Protein",
+    "nutritionalContent": {
+      "protein": 5,
+      "carbohydrates": 15,
+      "calories": 100,
+      "fiber": 2,
+      "fat": 2
+    },
+    "servingSize": 100,
+    "additionalNutrients": {
+      "saturatedFat": 0.5,
+      "sodium": 50,
+      "potassium": 200,
+      "cholesterol": 0,
+      "sugar": 5
+    }
+  },
+  {
+    "name": "protein powder",
+    "category": "High-Protein",
+    "nutritionalContent": {
+      "protein": 5,
+      "carbohydrates": 15,
+      "calories": 100,
+      "fiber": 2,
+      "fat": 2
+    },
+    "servingSize": 100,
+    "additionalNutrients": {
+      "saturatedFat": 0.5,
+      "sodium": 50,
+      "potassium": 200,
+      "cholesterol": 0,
+      "sugar": 5
+    }
+  }
+]

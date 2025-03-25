@@ -1,0 +1,24 @@
+{
+  "name": "nutrition-app",
+  "version": "1.0.0",
+  "description": "A comprehensive nutrition information application for common, Indian, and high-protein foods",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nutrition",
+    "food",
+    "health",
+    "protein",
+    "calories",
+    "indian-food"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "ifct2017": "^1.1.2"
+  }
+}
